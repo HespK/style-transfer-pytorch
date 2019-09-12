@@ -1,4 +1,4 @@
-###Image Style Transfer using CNNs
+Image Style Transfer using CNNs
 ---
 
 Experimenting with a Pytorch implementation of ['A Neural Algorithm of Artistic Style' by L. Gatys, A. Ecker, and M. Bethge](http://arxiv.org/abs/1508.06576).
@@ -20,3 +20,4 @@ python main.py --cuda-device-no 0 --target-content-filename sample_images/conten
 Example images
 --
 
+![](https://github.com/HespK/style-transfer-pytorch/blob/master/sample_images/example/example.jpg)
